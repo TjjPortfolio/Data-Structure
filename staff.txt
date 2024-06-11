@@ -1,0 +1,9 @@
+1,JJJ,01234,staff
+2,KKK,23456,salesperson
+3,HHH,12345,manager
+4,LLL,7890,staff
+5,MMM,1234,salesperson
+6,NNN,23456,manager
+7,PPP,0123456,staff
+8,QQQ,234567,salesperson
+9,RRR,5623,manager

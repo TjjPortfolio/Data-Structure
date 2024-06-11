@@ -1,0 +1,7 @@
+1,VW Golf mk5 1.6 FSI 2007,24/Aug/2021,Ed Eugene,jjj,sales,1095,30,300,500,325
+2,Volkswagen Golf 1.9 TDI 11 Months MOT,25/Sep/2021,Geraldine Pansy,Geraldine Pansy,Manual,650,100,50,50,650
+3,Vw Golf 2002 1.6,26/Sep/2021,Burke Cissie,Burke Cissie,Sales,395,50,20,100,325
+4,VW Golf Plus 1.9 TDI SE,28/Sep/2021,Daniel Truman,Daniel Truman,Sales,1202,100,150,100,1052
+5,GOLF GT SPORT 2.0 140BHP,29/Sep/2021,Lena Sheridan,Lena Sheridan,Sales,2200,150,250,100,2000
+6,Volkswagen Golf 1.9 TDI 11 Months MOT,23/Aug/2021,A,Geraldine Pansy,Book,1095.000000,200.000000,50.000000,1000.000000,245.000000
+7,Golf MK 4 Estate SE 1.9tdi PD 130BHP,6/Nov/2021,JJJ,Sylvia Evelina,sales,1070.000000,200.000000,250.000000,300.000000,720.000000
